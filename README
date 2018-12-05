@@ -1,0 +1,5 @@
+1. Integration of messages from all kinds of instant messaging software
+2. Integration of order info from all kinds of business systems
+3. Purpose: For the convenience of wonderful jobs
+4. Implementation: Use pywinauto + docker on windows to automate various applications, collect what we need and reply to where it is. Docker for hidden of the GUI.
+5. Purpose: For the convenience of life, use appinum or selenium to automate bank on the net, wechat or some channels else.
