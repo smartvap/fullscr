@@ -1,6 +1,8 @@
 ############################
 # Large screen monitor for #
 # real business handling   #
+# pip install pywin32      #
+# pip install 
 ############################
 import math
 import win32api
